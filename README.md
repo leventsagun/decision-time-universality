@@ -10,8 +10,6 @@ This script makes Google search queries of randomly chosen words and records the
 
 # References
 
-The definition of universality can be seen in this paper: [Universality in Numerical Computations with Random Data. Case Studies](http://arxiv.org/abs/1407.3829)
-
-This result is used in the following work:  
+Results and the definition of universality can be seen in this paper:  
 
 Levent Sagun, Thomas Trogdon, Yann LeCun, [*Universal halting times in optimization and machine learning*](https://arxiv.org/abs/1511.06444)  
