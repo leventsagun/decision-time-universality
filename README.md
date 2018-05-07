@@ -9,4 +9,7 @@ This script makes Google search queries of randomly chosen words and records the
 - After it finishes you can plot the graph via `python duration_plot.py`
 
 # References
-The definition of universality can be seen in this paper: [Universality in Numerical Computations with Random Data. Case Studies](http://arxiv.org/abs/1407.3829)
+
+Results and the definition of universality can be seen in this paper:  
+
+Levent Sagun, Thomas Trogdon, Yann LeCun, [*Universal halting times in optimization and machine learning*](https://arxiv.org/abs/1511.06444) 
